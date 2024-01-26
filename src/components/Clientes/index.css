@@ -1,0 +1,49 @@
+.body {
+  padding: 10%;
+  height: 100%;
+}
+
+.container {
+  background-color: blanchedalmond;
+  padding: 0px 20px;
+  border-radius: 30px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 10%;
+  border-bottom: black 1px solid;
+}
+
+.titulo-clientes {
+  font-size: 2rem;
+}
+
+.ferramentas {
+  display: flex;
+  gap: 20px;
+}
+
+.adicionar {
+  font-size: 1.25rem;
+  border-radius: 50%;
+  background-color: blanchedalmond;
+}
+
+.lista {
+  height: 80%;
+}
+
+.cliente {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+}
