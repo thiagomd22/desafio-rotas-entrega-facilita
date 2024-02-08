@@ -20,17 +20,17 @@ export default function Clientes() {
             <div className="lista-cliente">
               <ul className="cliente">
                 <li>Cliente 01</li>
-                <li>client01@exemplo.com</li>
+                <li>cliente01@exemplo.com</li>
                 <li>000.000.000-01</li>
               </ul>
               <ul className="cliente">
                 <li>Cliente 02</li>
-                <li>client02@exemplo.com</li>
+                <li>cliente02@exemplo.com</li>
                 <li>000.000.000-02</li>
               </ul>
               <ul className="cliente">
                 <li>Cliente 03</li>
-                <li>client03@exemplo.com</li>
+                <li>cliente03@exemplo.com</li>
                 <li>000.000.000-03</li>
               </ul>
             </div>
